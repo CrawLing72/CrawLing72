@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/58882851/154983624-ab3089d2-9d6c-4879-81d0-15edc5293110.gif" style="width:60%">
   <h5 align="center"> Have a nice day! ❤️ <strike>and sorry for my mistake... e he</strike></h5>
 </div>
 
