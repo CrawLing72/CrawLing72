@@ -1,6 +1,5 @@
 ### Hello, there 👋
 <hr>
-<h5>I'm just a student who wants to be a game developer:)</h5>
 <br>
 <br>
 <br>
