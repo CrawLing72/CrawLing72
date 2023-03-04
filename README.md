@@ -1,6 +1,6 @@
 ### Hello, there 👋
 <hr>
-<h5>I'm just a junior student who wants to be a app or game developer:)</h5>
+<h5>I'm just a student who wants to be a game developer:)</h5>
 <br>
 <br>
 <br>
@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h5 align="center"> Have a nice day! ❤️ <strike>and sorry for my mistake... e he</strike></h5>
+  <h5 align="center"> Have a nice day! ❤️</h5>
+  <img align="center" src="https://i.imgur.com/GA3oOBR.gif">
 </div>
 
 <div align="center">
