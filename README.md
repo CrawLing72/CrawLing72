@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on Kyung Hee University
+- 🔭 I’m currently Studying in Dept.of Software Convergence, Kyung Hee University.
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate on Programmers who're interested in Game Making!
 - 💬 Ask me about anything by email
