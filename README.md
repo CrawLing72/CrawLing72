@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently Studying in Dept.of Software Convergence, Kyung Hee University.
-- 👯 I’m looking to collaborate on Programmers who're interested in Game Making!
+- 👯 I’m looking to collaborate on Programmers who're interested in Game Making & Networking!
 - 💬 Ask me about anything by email
 - 📫 How to reach me: dongdongcompany@khu.ac.kr
 - 😄 Pronouns: You can call me just as "Ocean Sunfish"
