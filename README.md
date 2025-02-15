@@ -57,7 +57,7 @@
             <td>Audio Generation by MMVAE using Acceleartion data/KHU HIT Lab</td>
             <td>Undergraduate Research Student</td>
             <td>Python,TF,.NET</td>
-            <td>24.12~</td>
+            <td>24.12~25.02</td>
         </tr>
 </table>
 </div>
