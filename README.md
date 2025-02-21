@@ -26,13 +26,4 @@
   <img src="https://img.shields.io/badge/Wwise-00549F?style=flat-square&logo=wwise&logoColor=white"/>
   <img src="https://img.shields.io/badge/DotNet-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
- </div>
-        <tr>
-            <td rowspan="1">Research</td>
-            <td>Audio Generation by MMVAE using Acceleartion data/KHU HIT Lab</td>
-            <td>Undergraduate Research Student</td>
-            <td>Python,TF,.NET</td>
-            <td>24.12~25.02</td>
-        </tr>
-</table>
 </div>
