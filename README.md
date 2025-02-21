@@ -27,31 +27,6 @@
   <img src="https://img.shields.io/badge/DotNet-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
  </div>
-
-<br>
-<hr>
-<div align="center">
-  <table>
-    <caption>Participated Works</caption>
-        <tr>
-            <th scope="col">Type</th>
-            <th scope="col">Project/Group</th>
-            <th scope="col" colspan="2">Position/Stack</th>
-            <th scope="col">Date</th>
-        </tr>
-        <tr>
-            <td rowspan="2">Game</td>
-            <td>Your Parfait/KHU SW Festival</td>
-            <td>PM,PR</td>
-            <td>Unity,Wwise</td>
-            <td>24.09 ~ 24.11</td>
-        </tr>
-        <tr>
-            <td>Void Walker/KHU Game Engine Basics</td>
-            <td>PR</td>
-            <td>Unreal,Wwise</td>
-            <td>24.08 ~ 24.12</td>
-        </tr>
         <tr>
             <td rowspan="1">Research</td>
             <td>Audio Generation by MMVAE using Acceleartion data/KHU HIT Lab</td>
